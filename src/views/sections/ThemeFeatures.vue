@@ -81,9 +81,3 @@
     }),
   }
 </script>
-
-<style scoped>
-#theme-features{
-  padding-top: 20px;
-}
-</style>
