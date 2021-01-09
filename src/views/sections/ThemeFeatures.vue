@@ -6,6 +6,8 @@
       class="white--text"
       gradient="to right, rgba(5, 11, 31, .8), rgba(5, 11, 31, .8)"
     >
+      <base-section-heading title="DRAC BRIEF" />
+
       <div>
         <v-container>
           <v-row>
