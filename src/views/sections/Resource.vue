@@ -6,7 +6,7 @@
       class="white--text"
       gradient="to right, rgba(5, 11, 31, .8), rgba(5, 11, 31, .8)"
     >
-      <base-section-heading title="Theme Features" />
+      <base-section-heading title="Our Resources" />
 
       <div>
         <v-container>
@@ -18,8 +18,7 @@
                 horizontal
               >
                 <iframe
-                  width="1180"
-                  height="480"
+                  width="auto"
                   src="https://www.youtube.com/embed/N-R029mucvg"
                   frameborder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
@@ -27,14 +26,12 @@
                 />
 
                 <object
-                  width="1180"
-                  height="400"
+                  width="auto"
                   data="https://drac-ng.org/wp-content/uploads/2017/08/Communique.pdf"
                   type="application/pdf"
                 >
                   <iframe
-                    width="1000"
-                    height="480"
+                    width="auto"
                     src="https://docs.google.com/viewer?url=https://drac-ng.org/wp-content/uploads/2017/08/Communique.pdf&embedded=true"
                   />
                 </object>
